@@ -43,7 +43,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 
-<!-- ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/seemon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemon&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="seemon's GitHub Stats" />
@@ -52,10 +52,6 @@ me.say_hi()
 <a href="https://github.com/seemon/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seemon&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="seemon's GitHub Stats" />
 </a> -->
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=seemon&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🗂️ Highlight Projects
